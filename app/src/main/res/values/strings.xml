@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The Pig Game</string>
+    <string name="player_1_wins">PLAYER 1 WINS!</string>
+    <string name="player_2_wins">PLAYER 2 WINS!</string>
+    <string name="pasa_turno">PASA TURNO</string>
+    <string name="lanzar">LANZAR</string>
+    <string name="nueva_partida">NUEVA PARTIDA</string>
+    <string name="the_game_of_pig">THE GAME OF PIG</string>
+    <string name="reiniciar">REINICIAR</string>
+</resources>
